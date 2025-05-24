@@ -41,7 +41,7 @@ We used a publicly available dataset of cat and dog images for training and test
 
 Once the app is running, you can upload a photo like the one below and receive a prediction:
 
-![Sample](screenshots/sample_prediction.png)
+![Sample](Sample1.png)
 
 ## 📄 License
 
